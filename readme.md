@@ -9,9 +9,9 @@ Curriculum:
 
 * First Part: 1 Hour Introduction to the basic concepts of machine learning like classification and regression.
 * Second Part: Machine Learning in R using mlr
-   - Introduction to the basic principles of mlr
-   - Benchmarking various Learners
-   - Advanced Methods: What are Wrappers, why do you need them and how to use them to build ensambles and basic preprocessing pipelines.
+  - Introduction to the basic principles of mlr
+  - Benchmarking various Learners
+  - Advanced Methods: What are Wrappers, why do you need them and how to use them to build ensambles and basic preprocessing pipelines.
 
 The workshop is part of the two conferences:
 
