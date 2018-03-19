@@ -2,18 +2,19 @@
 
 # Data Science Workshop  -  Machine learning in [R](http://cran.us.r-project.org/) - 
 
-The “Machine learning in **R**” workshop on the **23. May 2018**  is aimed at participants already familiar with the basics of R. The first part (~ 1 hour) will introduce participants to the basic concepts of supervised (classification / regression) and unsupervised (clustering) learning. Afterwards you will learn how to efficiently and easily apply the most common techniques in **R** using the comprehensive [mlr](https://mlr-org.github.io/) package. 
-Our instructor, [Jakob Richter](http://jakob-r.de/) is an experienced data scientists and as a co-developer of mlr knows the ins and outs of the package. He will demonstrate some of its key features on a practical example enabling you to apply mlr on your problems to find a good pefrorming prediction model, analyze and tweaking the performance using mlrs tuning methods.
+The “Machine learning in **R**” workshop on the **23. May 2018**  is aimed at participants already familiar with the basics of R. The first part (~ 1 hour) will introduce participants to the basic concepts of supervised (classification / regression) and unsupervised (clustering) learning. Afterwards you will learn how to conveniently and efficiently apply the most common machine learning techniques of the [mlr](https://mlr-org.github.io/) package. 
+Our instructor, [Jakob Richter](http://jakob-r.de/) is an experienced data scientists and as a co-developer of mlr knows the ins and outs of the package. He will demonstrate some of its key features on a practical example enabling you to apply mlr on your problems to find a good pefrorming prediction mode and to tweak its performance using mlrs tuning algorithms.
 
 Curriculum:
 
-1. Theoretical introduction: 1 Hour Introduction to the basic concepts of machine learning:
+1. Theoretical introduction: 1 hour introduction to the basic concepts of machine learning:
    - Classification.
    - Regression.
 2. Machine Learning in R using mlr.
    - Introduction to the basic principles of mlr.
-   - Benchmarking various Learners.
-   - Advanced Methods: What are Wrappers, why do you need them and how to use them to build ensambles and basic preprocessing pipelines.
+   - Performance validation methods.
+   - Benchmarking of machine learning algorithms.
+   - Advanced methods: What are Wrappers, why do you need them and how to use them to build ensembles and basic preprocessing pipelines.
 
 The workshop is part of the two conferences:
 
