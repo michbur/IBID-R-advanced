@@ -3,7 +3,7 @@
 # Data Science Workshop  -  Machine learning in [R](http://cran.us.r-project.org/) - 
 
 The “Machine learning in **R**” workshop on the **23. May 2018**  is aimed at participants already familiar with the basics of R. The first part (~ 1 hour) will introduce participants to the basic concepts of supervised (classification / regression) and unsupervised (clustering) learning. Afterwards you will learn how to conveniently and efficiently apply the most common machine learning techniques of the [mlr](https://mlr-org.github.io/) package. 
-Our instructor, [Jakob Richter](http://jakob-r.de/) is an experienced data scientists and as a co-developer of mlr knows the ins and outs of the package. He will demonstrate some of its key features on a practical example enabling you to apply mlr on your problems to find a good pefrorming prediction mode and to tweak its performance using mlrs tuning algorithms.
+Our instructor, [Jakob Richter](http://jakob-r.de/) is an experienced data scientists and as a co-developer of mlr knows the ins and outs of the package. He will demonstrate some of its key features on a practical example enabling you to apply mlr on your problems to find a good performing prediction model and to tweak its performance using mlrs tuning algorithms.
 
 Curriculum:
 
